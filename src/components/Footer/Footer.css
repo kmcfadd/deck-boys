@@ -1,0 +1,12 @@
+.footer {
+    margin: 0;
+    height: 25px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-weight: bold;
+    padding-bottom: 25px;
+    text-align: center;
+    background-color: grey;
+    color: white;
+}

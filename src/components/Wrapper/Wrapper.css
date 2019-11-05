@@ -1,0 +1,18 @@
+.wrapper {
+    display: flex;
+    width: 90%;
+    height: 450px;
+    flex-flow: column wrap;
+}
+
+@media only screen and (max-width: 570px) {
+    .wrapper {
+        height: 425px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .wrapper {
+        height: 350px;
+    }
+}
