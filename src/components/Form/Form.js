@@ -20,7 +20,7 @@ class Form extends Component {
     handleFormSubmit = e => {
         e.preventDefault();
 
-        // do stuff here
+        alert('this is working maybe')
 
         this.setState({
             Username: "",
