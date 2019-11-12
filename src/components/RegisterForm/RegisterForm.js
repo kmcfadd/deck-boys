@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Wrapper from '../Wrapper/Wrapper';
+import './RegisterForm.css'
 
 class Form extends Component {
 

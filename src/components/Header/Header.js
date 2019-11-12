@@ -9,6 +9,7 @@ function Header() {
             <nav>
                 <ul className="navGroup">
                     <li className="navItem"><a href="/decks">Decks</a></li>
+                    <li className="navItem"><a href="/deckbuilder">Deckbuilder</a></li>
                     <li className="navItem"><a href="/register">Register</a></li>
                     <li className="navItem"><a href="/dashboard">Dashboard</a></li> 
                 </ul>
